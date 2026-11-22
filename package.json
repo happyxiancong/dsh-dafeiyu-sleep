@@ -41,6 +41,14 @@
     }
   },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/happyxiancong/dsh-dafeiyu-sleep.git"
+  },
+  "homepage": "https://github.com/happyxiancong/dsh-dafeiyu-sleep#readme",
+  "bugs": {
+    "url": "https://github.com/happyxiancong/dsh-dafeiyu-sleep/issues"
+  },
   "scripts": {
     "check": "node --check lib/index.js && node --check lib/client.js"
   }
